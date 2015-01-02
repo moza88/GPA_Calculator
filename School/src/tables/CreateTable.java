@@ -10,6 +10,7 @@ import java.util.Properties;
 
 public class CreateTable{
 	
+	//Initializing variables
 	private Connection con;
 	public Statement stm;
 	private ResultSet rs;
